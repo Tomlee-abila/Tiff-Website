@@ -1,0 +1,338 @@
+{
+  "Home": {
+    "link": "https://www.daystar.ac.ke/index.html",
+    "href": "onepage.html#"
+  },
+  "About DU": {
+    "link": "https://www.daystar.ac.ke/index.html",
+    "href": "onepage.html#About DU",
+    "About Daystar": {
+      "link": "https://www.daystar.ac.ke/about-us.html",
+      "href": "onepage.html#About Daystar"
+    },
+    "Mission & Vision": {
+      "link": "https://www.daystar.ac.ke/vision&mission.html",
+      "href": "onepage.html#Mission & Vision"
+    },
+    "Athi-River (Main Campus)": {
+      "link": "https://www.daystar.ac.ke/athi-river-campus.html",
+      "href": "onepage.html#Athi-River (Main Campus)"
+    },
+    "Nairobi Campus": {
+      "link": "https://www.daystar.ac.ke/nairobi-campus.html",
+      "href": "onepage.html#Nairobi Campus"
+    },
+    "Contact Info": {
+      "link": "https://www.daystar.ac.ke/contact-us.html",
+      "href": "onepage.html#Contact Info"
+    },
+    "Vacancies": {
+      "link": "https://www.daystar.ac.ke/vacancies",
+      "href": "onepage.html#Vacancies"
+    },
+    "Tenders": {
+      "link": "https://www.daystar.ac.ke/tenders.html",
+      "href": "onepage.html#Tenders"
+    },
+    "Give to Daystar": {
+      "link": "https://www.daystar.ac.ke/give-to-daystar.html",
+      "href": "onepage.html#Give to Daystar"
+    },
+    "Governance": {
+      "link": "https://www.daystar.ac.ke/governance",
+      "href": "onepage.html#Governance"
+    },
+    "Office of The Vice-Chancellor (VC)": {
+      "link": "https://www.daystar.ac.ke/vc-message.html",
+      "href": "onepage.html#Office of The Vice-Chancellor (VC)"
+    },
+    "Deputy Vice Chancellor Academics, Research & Students Affairs (DVC-ARSA)": {
+      "link": "https://www.daystar.ac.ke/dvc-arsa-message.html",
+      "href": "onepage.html#Deputy Vice Chancellor Academics, Research & Students Affairs (DVC-ARSA)"
+    },
+    "Deputy Vice Chancellor Finance, Administration & Planning Message (DVC-FAP)": {
+      "link": "https://www.daystar.ac.ke/dvc-fap-message.html",
+      "href": "onepage.html#Deputy Vice Chancellor Finance, Administration & Planning Message (DVC-FAP)"
+    },
+    "Centres & Directorates": {
+      "link": "https://www.daystar.ac.ke/#",
+      "href": "onepage.html#Centres & Directorates"
+    },
+    "Alumni": {
+      "link": "http://www.daystar.ac.ke/alumni/",
+      "href": "onepage.html#Alumni"
+    }
+  },
+  "Admissions": {
+    "link": "https://www.daystar.ac.ke/index.html",
+    "href": "onepage.html#Admissions",
+    "Admission and Records Department": {
+      "link": "https://www.daystar.ac.ke/department-of-admissions-and-records.html",
+      "href": "onepage.html#Admission and Records Department"
+    },
+    "How to apply": {
+      "link": "https://www.daystar.ac.ke/apply-to-daystar.html",
+      "href": "onepage.html#How to apply"
+    },
+    "Payment Options": {
+      "link": "https://www.daystar.ac.ke/payment-options.html",
+      "href": "onepage.html#Payment Options"
+    },
+    "Financial Aid": {
+      "link": "https://www.daystar.ac.ke/financial-aid.html",
+      "href": "onepage.html#Financial Aid"
+    },
+    "Downloads": {
+      "link": "https://www.daystar.ac.ke/downloads.html",
+      "href": "onepage.html#Downloads"
+    },
+    "Frequently Asked Questions": {
+      "link": "https://www.daystar.ac.ke/faqs.html",
+      "href": "onepage.html#Frequently Asked Questions"
+    }
+  },
+  "Academics": {
+    "link": "https://www.daystar.ac.ke/index.html",
+    "href": "onepage.html#Academics",
+    "Arts & Social Sciences": {
+      "link": "https://www.daystar.ac.ke/school-of-arts-social-sciences",
+      "href": "onepage.html#Arts & Social Sciences"
+    },
+    "Business & Economics": {
+      "link": "https://www.daystar.ac.ke/school-of-business-and-economics",
+      "href": "onepage.html#Business & Economics"
+    },
+    "Communication": {
+      "link": "https://www.daystar.ac.ke/school-of-communication/",
+      "href": "onepage.html#Communication"
+    },
+    "Science, Engineering & Health": {
+      "link": "https://www.daystar.ac.ke/school-of-science-engineering",
+      "href": "onepage.html#Science, Engineering & Health"
+    },
+    "Applied Human Sciences": {
+      "link": "https://www.daystar.ac.ke/school-of-applied-human-sciences.html",
+      "href": "onepage.html#Applied Human Sciences"
+    },
+    "Law": {
+      "link": "https://www.daystar.ac.ke/school-of-law",
+      "href": "onepage.html#Law"
+    },
+    "Nursing": {
+      "link": "https://www.daystar.ac.ke/school-of-nursing",
+      "href": "onepage.html#Nursing"
+    },
+    "Mission & Theology": {
+      "link": "https://www.daystar.ac.ke/#",
+      "href": "onepage.html#Mission & Theology"
+    },
+    "Leadership and Professional Development Institute": {
+      "link": "https://www.daystar.ac.ke/dlpdi",
+      "href": "onepage.html#Leadership and Professional Development Institute"
+    },
+    "Quality Assurance": {
+      "link": "https://www.daystar.ac.ke/qa.html",
+      "href": "onepage.html#Quality Assurance"
+    },
+    "Research & Graduate Studies": {
+      "link": "https://www.daystar.ac.ke/du-rgs",
+      "href": "onepage.html#Research & Graduate Studies"
+    },
+    "ODeL": {
+      "link": "https://odel.daystar.ac.ke/",
+      "href": "onepage.html#ODeL"
+    },
+    "Resource Mobilization, Projects and Partnership": {
+      "link": "https://www.daystar.ac.ke/give-to-daystar.html",
+      "href": "onepage.html#Resource Mobilization, Projects and Partnership"
+    },
+    "Planning and Entrepreneurship": {
+      "link": "https://www.daystar.ac.ke/entrepreneurship.html",
+      "href": "onepage.html#Planning and Entrepreneurship"
+    },
+    "Academic Affairs": {
+      "link": "https://www.daystar.ac.ke/academic-affairs",
+      "href": "onepage.html#Academic Affairs"
+    },
+    "Institute of Disability Studies": {
+      "link": "https://www.daystar.ac.ke/dids.html",
+      "href": "onepage.html#Institute of Disability Studies"
+    },
+    "E-learning Platform": {
+      "link": "https://elearning.daystar.ac.ke/",
+      "href": "onepage.html#E-learning Platform"
+    },
+    "University Calendar": {
+      "link": "https://www.daystar.ac.ke/university-calendar.html",
+      "href": "onepage.html#University Calendar"
+    },
+    "Student Academic Guide": {
+      "link": "https://www.daystar.ac.ke/downloads/student_academic_summary_guide.pdf",
+      "href": "onepage.html#Student Academic Guide"
+    },
+    "Student Portal": {
+      "link": "https://student.daystar.ac.ke/",
+      "href": "onepage.html#Student Portal"
+    },
+    "Faculty Portal": {
+      "link": "https://portal.daystar.ac.ke/secure/staff/loginsta.aspx?ReturnURL=/secure/staff/staff.aspx",
+      "href": "onepage.html#Faculty Portal"
+    },
+    "Students / Faculty Email": {
+      "link": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fmail%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=0e07524a-45c0-465a-a24c-0cbdbd7f780e&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637322223232707659.24c78ca0-0aa7-4fbd-a514-092df385fe86&state=DYtLDoAgDAVBl56lUilQOE4BSUj8bD2-nZd5u7HGmFVdVIt6hhMxeYV0jJxi2X1onJsgoAhDGLWDxCMAFt8H5TjOnKy2m7tlXm4-9f1-",
+      "href": "onepage.html#Students / Faculty Email"
+    }
+  },
+  "Research": {
+    "link": "https://www.daystar.ac.ke/index.html",
+    "href": "onepage.html#Research",
+    "Directorate of Research": {
+      "link": "https://www.daystar.ac.ke/du-rgs",
+      "href": "onepage.html#Directorate of Research"
+    },
+    "Publications": {
+      "link": "https://www.daystar.ac.ke/profiles/publications",
+      "href": "onepage.html#Publications"
+    },
+    "University Journals": {
+      "link": "https://www.daystar.ac.ke/du-rgs/online-journals.html",
+      "href": "onepage.html#University Journals"
+    },
+    "Daystar University Scholarship Updates": {
+      "link": "https://www.daystar.ac.ke/du-rgs/scholarship-updates.html",
+      "href": "onepage.html#Daystar University Scholarship Updates"
+    }
+  },
+  "Students": {
+    "link": "https://www.daystar.ac.ke/index.html",
+    "href": "onepage.html#Students",
+    "Student Portal": {
+      "link": "https://student.daystar.ac.ke/",
+      "href": "onepage.html#Student Portal"
+    },
+    "E-learning": {
+      "link": "https://elearning.daystar.ac.ke/",
+      "href": "onepage.html#E-learning"
+    },
+    "Thesis Management System": {
+      "link": "https://tms.daystar.ac.ke/index.php?module=users/login",
+      "href": "onepage.html#Thesis Management System"
+    },
+    "International Students": {
+      "link": "https://www.daystar.ac.ke/student-affairs/international-students",
+      "href": "onepage.html#International Students"
+    },
+    "Chaplaincy": {
+      "link": "https://www.daystar.ac.ke/chaplaincy.html",
+      "href": "onepage.html#Chaplaincy"
+    },
+    "Student Affairs": {
+      "link": "https://www.daystar.ac.ke/student-affairs",
+      "href": "onepage.html#Student Affairs"
+    },
+    "Counselling Services": {
+      "link": "https://www.daystar.ac.ke/student-affairs/services/dccc",
+      "href": "onepage.html#Counselling Services"
+    },
+    "Sports and Clubs": {
+      "link": "https://www.daystar.ac.ke/student-affairs/services/sports",
+      "href": "onepage.html#Sports and Clubs"
+    },
+    "DUSA": {
+      "link": "https://www.daystar.ac.ke/student-affairs/sg/dusa",
+      "href": "onepage.html#DUSA"
+    },
+    "ISADU": {
+      "link": "https://www.daystar.ac.ke/student-affairs/sg/isadu",
+      "href": "onepage.html#ISADU"
+    },
+    "Congress": {
+      "link": "https://www.daystar.ac.ke/student-affairs/sg/congress",
+      "href": "onepage.html#Congress"
+    },
+    "DOULOS": {
+      "link": "https://www.daystar.ac.ke/student-affairs/sg/doulos",
+      "href": "onepage.html#DOULOS"
+    },
+    "University Services": {
+      "link": "https://www.daystar.ac.ke/university-services.html",
+      "href": "onepage.html#University Services"
+    },
+    "Healthcare Services": {
+      "link": "https://www.daystar.ac.ke/health.html",
+      "href": "onepage.html#Healthcare Services"
+    },
+    "Campus Safety": {
+      "link": "https://www.daystar.ac.ke/security.html",
+      "href": "onepage.html#Campus Safety"
+    },
+    "Daystar Enterprises LTD": {
+      "link": "https://www.daystar.ac.ke/del.html",
+      "href": "onepage.html#Daystar Enterprises LTD"
+    }
+  },
+  "Media": {
+    "link": "https://www.daystar.ac.ke/index.html",
+    "href": "onepage.html#Media",
+    "Blog": {
+      "link": "https://www.daystar.ac.ke/blog",
+      "href": "onepage.html#Blog"
+    },
+    "Infospot Newsletter": {
+      "link": "https://www.daystar.ac.ke/infospot_html/newsletter.html",
+      "href": "onepage.html#Infospot Newsletter"
+    },
+    "Press Releases": {
+      "link": "https://www.daystar.ac.ke/press-releases",
+      "href": "onepage.html#Press Releases"
+    },
+    "Events": {
+      "link": "https://www.daystar.ac.ke/university-calendar.html",
+      "href": "onepage.html#Events"
+    },
+    "Conferences": {
+      "link": "https://conferences.daystar.ac.ke/",
+      "href": "onepage.html#Conferences"
+    },
+    "Daystar Connect": {
+      "link": "https://connect.daystar.ac.ke/",
+      "href": "onepage.html#Daystar Connect"
+    },
+    "Downloads": {
+      "link": "https://www.daystar.ac.ke/downloads.html",
+      "href": "onepage.html#Downloads"
+    },
+    "Daystar University Strategic Plan": {
+      "link": "https://www.daystar.ac.ke/downloads/Strategic%20Plan%202020-2025.pdf",
+      "href": "onepage.html#Daystar University Strategic Plan"
+    },
+    "Student Academic Summary Guide": {
+      "link": "https://www.daystar.ac.ke/downloads/student_academic_summary_guide.pdf",
+      "href": "onepage.html#Student Academic Summary Guide"
+    },
+    "Mentorship Guide Booklet": {
+      "link": "https://www.daystar.ac.ke/downloads/Mentorship%20Guide%20Booklet.pdf",
+      "href": "onepage.html#Mentorship Guide Booklet"
+    },
+    "Daystar University Course Planner": {
+      "link": "https://www.daystar.ac.ke/downloads/DU-Course%20Planner-2022.pdf",
+      "href": "onepage.html#Daystar University Course Planner"
+    },
+    "Daystar University Live": {
+      "link": "https://www.youtube.com/channel/UCo4VSpmSDgmN9n46zUEhayQ",
+      "href": "onepage.html#Daystar University Live"
+    },
+    "Shine FM": {
+      "link": "https://www.daystar.ac.ke/shinefm",
+      "href": "onepage.html#Shine FM"
+    },
+    "Involvement Newspaper": {
+      "link": "https://involvement.co.ke/",
+      "href": "onepage.html#Involvement Newspaper"
+    }
+  },
+  "Library": {
+    "link": "https://www.daystar.ac.ke/daystar-library",
+    "href": "onepage.html#Library"
+  }
+}
