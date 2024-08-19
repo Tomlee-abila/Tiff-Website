@@ -2,231 +2,231 @@
   "Home": {
     "id": "Home",
     "href": "https://www.aku.edu/Pages/home.aspx",
-    "doc": ""
+    "doc": "Main Link: Home\n\nDescription: Clicking on the 'Home' link will navigate you to the homepage of the Aga Khan University website.\n\nHow to Navigate:\n\nLocate the 'Home' link in the navigation bar.\nClick on the 'Home' link to be directed to the homepage."
   },
   "About Us": {
     "id": "About Us",
     "href": "https://www.aku.edu/about/Pages/home.aspx",
+    "doc": "Main Link: About Us\n\nDescription: Hovering over the 'About Us' link in the navigation bar will reveal a submenu with additional information about the Aga Khan University (AKU).\n\nHow to Navigate:\n\nHover over the 'About Us' link in the navigation bar.\nThe submenu will appear, providing access to more details about AKU.",
     "About AKU": {
       "id": "About AKU",
       "href": "https://www.aku.edu/about/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: About AKU\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'About AKU' link in the submenu."
     },
     "AKU at a Glance": {
       "id": "AKU at a Glance",
       "href": "https://www.aku.edu/about/at-a-glance/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: AKU at a Glance\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'AKU at a Glance' link in the submenu."
     },
     "Our Vision & Mission": {
       "id": "Our Vision & Mission",
       "href": "https://www.aku.edu/about/at-a-glance/Pages/our-vision.aspx",
-      "doc": ""
+      "doc": "Main Link: Our Vision & Mission\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'Our Vision & Mission' link in the submenu."
     },
     "Founder & Chancellor": {
       "id": "Founder & Chancellor",
       "href": "https://www.aku.edu/about/chancellor/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Founder & Chancellor\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'Founder & Chancellor' link in the submenu."
     },
     "Board of Trustees": {
       "id": "Board of Trustees",
       "href": "https://www.aku.edu/about/trustees/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Board of Trustees\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'Board of Trustees' link in the submenu."
     },
     "Office of the President": {
       "id": "Office of the President",
       "href": "https://www.aku.edu/about/president/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Office of the President\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'Office of the President' link in the submenu."
     },
     "Deans & Officers": {
       "id": "Deans & Officers",
       "href": "https://www.aku.edu/about/officers/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Deans & Officers\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'Deans & Officers' link in the submenu."
     },
     "University Charters": {
       "id": "University Charters",
       "href": "https://www.aku.edu/about/charters/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: University Charters\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'University Charters' link in the submenu."
     },
     "Environment & Sustainability": {
       "id": "Environment & Sustainability",
       "href": "https://www.aku.edu/about/environment/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Environment & Sustainability\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'Environment & Sustainability' link in the submenu."
     },
     "Our Partners": {
       "id": "Our Partners",
       "href": "https://www.aku.edu/about/partnerships/Pages/geo.aspx",
-      "doc": ""
-    },
-    "doc": ""
+      "doc": "Main Link: Our Partners\n\nHow to Navigate:\n\nHover over the 'About Us' link to reveal the submenu.\nClick on the 'Our Partners' link in the submenu."
+    }
   },
   "Academics": {
     "id": "Academics",
     "href": "https://www.aku.edu/academics/Pages/home.aspx",
+    "doc": "Main Link: Academics\n\nDescription: Hovering over the 'Academics' link in the navigation bar will reveal a submenu with information on various academic programs and locations.\n\nHow to Navigate:\n\nHover over the 'Academics' link in the navigation bar.\nThe submenu will appear, providing access to detailed information on academic offerings.",
     "Pakistan": {
       "id": "Pakistan",
       "href": "https://www.aku.edu/pakistan/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Pakistan\n\nHow to Navigate:\n\nHover over the 'Academics' link to reveal the submenu.\nClick on the 'Pakistan' link in the submenu."
     },
     "Uganda": {
       "id": "Uganda",
       "href": "https://www.aku.edu/uganda/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Uganda\n\nHow to Navigate:\n\nHover over the 'Academics' link to reveal the submenu.\nClick on the 'Uganda' link in the submenu."
     },
     "Kenya": {
       "id": "Kenya",
       "href": "https://www.aku.edu/kenya/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Kenya\n\nHow to Navigate:\n\nHover over the 'Academics' link to reveal the submenu.\nClick on the 'Kenya' link in the submenu."
     },
     "Tanzania": {
       "id": "Tanzania",
       "href": "https://www.aku.edu/tanzania/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Tanzania\n\nHow to Navigate:\n\nHover over the 'Academics' link to reveal the submenu.\nClick on the 'Tanzania' link in the submenu."
     },
     "United Kingdom": {
       "id": "United Kingdom",
       "href": "https://www.aku.edu/united-kingdom/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: United Kingdom\n\nHow to Navigate:\n\nHover over the 'Academics' link to reveal the submenu.\nClick on the 'United Kingdom' link in the submenu."
     },
     "Professional Lifelong Learning": {
       "id": "Professional Lifelong Learning",
       "href": "https://www.aku.edu/leads/Pages/home.aspx",
-      "doc": ""
-    },
-    "doc": ""
+      "doc": "Main Link: Professional Lifelong Learning\n\nHow to Navigate:\n\nHover over the 'Academics' link to reveal the submenu.\nClick on the 'Professional Lifelong Learning' link in the submenu."
+    }
   },
   "Admissions": {
     "id": "Admissions",
     "href": "https://www.aku.edu/admissions/Pages/home.aspx",
+    "doc": "Main Link: Admissions\n\nDescription: Hovering over the 'Admissions' link in the navigation bar will reveal a submenu with information on various admissions processes, programs, fees, and key dates.\n\nHow to Navigate:\n\nHover over the 'Admissions' link in the navigation bar.\nThe submenu will appear, providing access to detailed admissions information.",
     "Undergraduate Programmes": {
       "id": "Undergraduate Programmes",
       "href": "https://www.aku.edu/admissions/Pages/ug.aspx",
-      "doc": ""
+      "doc": "Main Link: Undergraduate Programmes\n\nHow to Navigate:\n\nHover over the 'Admissions' link to reveal the submenu.\nClick on the 'Undergraduate Programmes' link in the submenu."
     },
     "Graduate Programmes": {
       "id": "Graduate Programmes",
       "href": "https://www.aku.edu/admissions/Pages/graduate.aspx",
-      "doc": ""
+      "doc": "Main Link: Graduate Programmes\n\nHow to Navigate:\n\nHover over the 'Admissions' link to reveal the submenu.\nClick on the 'Graduate Programmes' link in the submenu."
     },
     "Doctoral Programmes": {
       "id": "Doctoral Programmes",
       "href": "https://www.aku.edu/admissions/Pages/doctoral-progammes.aspx",
-      "doc": ""
+      "doc": "Main Link: Doctoral Programmes\n\nHow to Navigate:\n\nHover over the 'Admissions' link to reveal the submenu.\nClick on the 'Doctoral Programmes' link in the submenu."
     },
     "Key Admissions Dates": {
       "id": "Key Admissions Dates",
       "href": "https://www.aku.edu/admissions/key-dates/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Key Admissions Dates\n\nHow to Navigate:\n\nHover over the 'Admissions' link to reveal the submenu.\nClick on the 'Key Admissions Dates' link in the submenu."
     },
     "Fees and Funding": {
       "id": "Fees and Funding",
       "href": "https://www.aku.edu/admissions/fees-and-funding/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Fees and Funding\n\nHow to Navigate:\n\nHover over the 'Admissions' link to reveal the submenu.\nClick on the 'Fees and Funding' link in the submenu."
     },
     "Registrar’s Office": {
       "id": "Registrar’s Office",
       "href": "https://www.aku.edu/registrar/Pages/home.aspx",
-      "doc": ""
-    },
-    "doc": ""
+      "doc": "Main Link: Registrar’s Office\n\nHow to Navigate:\n\nHover over the 'Admissions' link to reveal the submenu.\nClick on the 'Registrar’s Office' link in the submenu."
+    }
   },
   "Research": {
     "id": "Research",
     "href": "https://www.aku.edu/research/Pages/home.aspx",
+    "doc": "Main Link: Research\n\nDescription: Hovering over the 'Research' link in the navigation bar will reveal a submenu with information on various research departments, facilities, and initiatives.\n\nHow to Navigate:\n\nHover over the 'Research' link in the navigation bar.\nThe submenu will appear, providing access to detailed research information.",
     "Research(About Us)": {
       "id": "Research(About Us)",
       "href": "https://www.aku.edu/research/about/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Research (About Us)\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Research (About Us)' link in the submenu."
     },
     "University Research Council": {
       "id": "University Research Council",
       "href": "https://www.aku.edu/research/urc/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: University Research Council\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'University Research Council' link in the submenu."
     },
     "Grants & Funding Opportunities": {
       "id": "Grants & Funding Opportunities",
       "href": "https://www.aku.edu/research/grants/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Grants & Funding Opportunities\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Grants & Funding Opportunities' link in the submenu."
     },
     "Ethics Review Board & Committees": {
       "id": "Ethics Review Board & Committees",
       "href": "https://www.aku.edu/research/urc/erc/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Ethics Review Board & Committees\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Ethics Review Board & Committees' link in the submenu."
     },
     "Core Facilities": {
       "id": "Core Facilities",
       "href": "https://www.aku.edu/research/facilities/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Core Facilities\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Core Facilities' link in the submenu."
     },
     "Clinical Research Unit, Kenya": {
       "id": "Clinical Research Unit, Kenya",
       "href": "https://www.aku.edu/cru/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Clinical Research Unit, Kenya\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Clinical Research Unit, Kenya' link in the submenu."
     },
     "Clinical Trials Unit, Pakistan": {
       "id": "Clinical Trials Unit, Pakistan",
       "href": "https://www.aku.edu/ctu/pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Clinical Trials Unit, Pakistan\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Clinical Trials Unit, Pakistan' link in the submenu."
     },
     "Arusha Climate & Environmental Research Centre": {
       "id": "Arusha Climate & Environmental Research Centre",
       "href": "https://www.aku.edu/acer/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Arusha Climate & Environmental Research Centre\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Arusha Climate & Environmental Research Centre' link in the submenu."
     },
     "Brain & Mind Institute": {
       "id": "Brain & Mind Institute",
       "href": "https://www.aku.edu/bmi/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Brain & Mind Institute\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Brain & Mind Institute' link in the submenu."
     },
     "Centre for Innovation in Medical Education": {
       "id": "Centre for Innovation in Medical Education",
       "href": "https://www.aku.edu/cime/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Centre for Innovation in Medical Education\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Centre for Innovation in Medical Education' link in the submenu."
     },
     "Centre of Excellence in Women & Child Health": {
       "id": "Centre of Excellence in Women & Child Health",
       "href": "https://www.aku.edu/coe-wch/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Centre of Excellence in Women & Child Health\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Centre of Excellence in Women & Child Health' link in the submenu."
     },
     "Institute for Global Health & Development": {
       "id": "Institute for Global Health & Development",
       "href": "https://www.aku.edu/ighd/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Institute for Global Health & Development\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Institute for Global Health & Development' link in the submenu."
     },
     "Institute for Human Development": {
       "id": "Institute for Human Development",
       "href": "https://www.aku.edu/ihd/Pages/home.aspx",
-      "doc": ""
-    },
-    "doc": ""
+      "doc": "Main Link: Institute for Human Development\n\nHow to Navigate:\n\nHover over the 'Research' link to reveal the submenu.\nClick on the 'Institute for Human Development' link in the submenu."
+    }
   },
   "Support Us": {
     "id": "Support Us",
     "href": "https://www.aku.edu/supportus/Pages/home.aspx",
+    "doc": "Main Link: Support Us\n\nDescription: Hovering over the 'Support Us' link in the navigation bar will reveal a submenu with information on giving opportunities, ways to give, and the impact of giving.\n\nHow to Navigate:\n\nHover over the 'Support Us' link in the navigation bar.\nThe submenu will appear, providing access to detailed information on supporting AKU.",
     "Give Now": {
       "id": "Give Now",
       "href": "https://giving.aku.edu/",
-      "doc": ""
+      "doc": "Main Link: Give Now\n\nHow to Navigate:\n\nHover over the 'Support Us' link to reveal the submenu.\nClick on the 'Give Now' link in the submenu."
     },
     "Giving Opportunities": {
       "id": "Giving Opportunities",
       "href": "https://www.aku.edu/supportus/giving/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Giving Opportunities\n\nHow to Navigate:\n\nHover over the 'Support Us' link to reveal the submenu.\nClick on the 'Giving Opportunities' link in the submenu."
     },
     "Ways to Give": {
       "id": "Ways to Give",
       "href": "https://www.aku.edu/supportus/ways-to-give/Pages/home.aspx",
-      "doc": ""
+      "doc": "Main Link: Ways to Give\n\nHow to Navigate:\n\nHover over the 'Support Us' link to reveal the submenu.\nClick on the 'Ways to Give' link in the submenu."
     },
     "Impact of Giving": {
       "id": "Impact of Giving",
       "href": "https://www.aku.edu/supportus/Pages/impact.aspx",
-      "doc": ""
+      "doc": "Main Link: Impact of Giving\n\nHow to Navigate:\n\nHover over the 'Support Us' link to reveal the submenu.\nClick on the 'Impact of Giving' link in the submenu."
     },
     "Recognising our Donors": {
       "id": "Recognising our Donors",
       "href": "https://www.aku.edu/supportus/our-supporters/Pages/home.aspx",
-      "doc": ""
-    },
-    "doc": ""
+      "doc": "Main Link: Recognising our Donors\n\nHow to Navigate:\n\nHover over the 'Support Us' link to reveal the submenu.\nClick on the 'Recognising our Donors' link in the submenu."
+    }
   }
 }
