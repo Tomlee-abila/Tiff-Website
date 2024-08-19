@@ -17631,7 +17631,33 @@ blockquote .author {
   padding: 40px 25px 30px 35px;
   margin-bottom: 30px;
   background: var(--bs-white);
+  overflow: hidden; 
+  transition: max-height 0.3s ease; 
+  max-height: 300px; 
+  position: relative;
 }
+
+.recommended_item.expanded {
+  max-height: 1000px; 
+}
+
+.expand_button {  
+  color: white; 
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  position: absolute;
+  bottom: 10px;
+  left: 83%;
+  color: #000000;
+  background-color: rgba(220, 220, 220, 10);
+  width: 30px;
+  height: 40px;
+  /* text-align: center; */
+  border-radius: 4px;    
+  transition: background-color 0.3s, opacity 0.5s, visibility 0.5s;
+}
+
 .recommended_item img {
   margin-bottom: 25px;
   max-width: 44px;

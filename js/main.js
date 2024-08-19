@@ -1,3 +1,23 @@
+document.addEventListener('DOMContentLoaded', function() {
+  const recommendedItems = document.querySelectorAll('.recommended_item');
+
+  recommendedItems.forEach(item => {
+    const expandButton = item.querySelector('.expand_button');
+    
+    expandButton.addEventListener('click', function() {
+      if (item.classList.contains('expanded')) {
+        item.classList.remove('expanded');
+        expandButton.textContent = '+';
+      } else {
+        item.classList.add('expanded');
+        expandButton.textContent = '-';
+      }
+    });
+  });
+});
+
+
+
 (function ($) {
   "use strict";
 
