@@ -1,186 +1,232 @@
 {
   "Home": {
     "id": "Home",
-    "href": "https://www.aku.edu/Pages/home.aspx"
+    "href": "https://www.aku.edu/Pages/home.aspx",
+    "doc": ""
   },
   "About Us": {
-    "id": "About Us",    
+    "id": "About Us",
     "href": "https://www.aku.edu/about/Pages/home.aspx",
     "About AKU": {
       "id": "About AKU",
-      "href": "https://www.aku.edu/about/Pages/home.aspx"
+      "href": "https://www.aku.edu/about/Pages/home.aspx",
+      "doc": ""
     },
     "AKU at a Glance": {
       "id": "AKU at a Glance",
-      "href": "https://www.aku.edu/about/at-a-glance/Pages/home.aspx"
+      "href": "https://www.aku.edu/about/at-a-glance/Pages/home.aspx",
+      "doc": ""
     },
     "Our Vision & Mission": {
       "id": "Our Vision & Mission",
-      "href": "https://www.aku.edu/about/at-a-glance/Pages/our-vision.aspx"
+      "href": "https://www.aku.edu/about/at-a-glance/Pages/our-vision.aspx",
+      "doc": ""
     },
     "Founder & Chancellor": {
       "id": "Founder & Chancellor",
-      "href": "https://www.aku.edu/about/chancellor/Pages/home.aspx"
+      "href": "https://www.aku.edu/about/chancellor/Pages/home.aspx",
+      "doc": ""
     },
     "Board of Trustees": {
       "id": "Board of Trustees",
-      "href": "https://www.aku.edu/about/trustees/Pages/home.aspx"
+      "href": "https://www.aku.edu/about/trustees/Pages/home.aspx",
+      "doc": ""
     },
     "Office of the President": {
       "id": "Office of the President",
-      "href": "https://www.aku.edu/about/president/Pages/home.aspx"
+      "href": "https://www.aku.edu/about/president/Pages/home.aspx",
+      "doc": ""
     },
     "Deans & Officers": {
       "id": "Deans & Officers",
-      "href": "https://www.aku.edu/about/officers/Pages/home.aspx"
+      "href": "https://www.aku.edu/about/officers/Pages/home.aspx",
+      "doc": ""
     },
     "University Charters": {
       "id": "University Charters",
-      "href": "https://www.aku.edu/about/charters/Pages/home.aspx"
+      "href": "https://www.aku.edu/about/charters/Pages/home.aspx",
+      "doc": ""
     },
     "Environment & Sustainability": {
       "id": "Environment & Sustainability",
-      "href": "https://www.aku.edu/about/environment/Pages/home.aspx"
+      "href": "https://www.aku.edu/about/environment/Pages/home.aspx",
+      "doc": ""
     },
     "Our Partners": {
       "id": "Our Partners",
-      "href": "https://www.aku.edu/about/partnerships/Pages/geo.aspx"
-    }
+      "href": "https://www.aku.edu/about/partnerships/Pages/geo.aspx",
+      "doc": ""
+    },
+    "doc": ""
   },
   "Academics": {
     "id": "Academics",
     "href": "https://www.aku.edu/academics/Pages/home.aspx",
-    "Pakistan": { 
+    "Pakistan": {
       "id": "Pakistan",
-      "href": "https://www.aku.edu/pakistan/Pages/home.aspx"
+      "href": "https://www.aku.edu/pakistan/Pages/home.aspx",
+      "doc": ""
     },
-    "Uganda": { 
+    "Uganda": {
       "id": "Uganda",
-      "href": "https://www.aku.edu/uganda/Pages/home.aspx"
+      "href": "https://www.aku.edu/uganda/Pages/home.aspx",
+      "doc": ""
     },
-    "Kenya": { 
+    "Kenya": {
       "id": "Kenya",
-      "href": "https://www.aku.edu/kenya/Pages/home.aspx"
+      "href": "https://www.aku.edu/kenya/Pages/home.aspx",
+      "doc": ""
     },
-    "Tanzania": { 
+    "Tanzania": {
       "id": "Tanzania",
-      "href": "https://www.aku.edu/tanzania/Pages/home.aspx"
+      "href": "https://www.aku.edu/tanzania/Pages/home.aspx",
+      "doc": ""
     },
-    "United Kingdom": { 
+    "United Kingdom": {
       "id": "United Kingdom",
-      "href": "https://www.aku.edu/united-kingdom/Pages/home.aspx"
+      "href": "https://www.aku.edu/united-kingdom/Pages/home.aspx",
+      "doc": ""
     },
     "Professional Lifelong Learning": {
       "id": "Professional Lifelong Learning",
-      "href": "https://www.aku.edu/leads/Pages/home.aspx"
-    }
+      "href": "https://www.aku.edu/leads/Pages/home.aspx",
+      "doc": ""
+    },
+    "doc": ""
   },
   "Admissions": {
     "id": "Admissions",
     "href": "https://www.aku.edu/admissions/Pages/home.aspx",
     "Undergraduate Programmes": {
       "id": "Undergraduate Programmes",
-      "href": "https://www.aku.edu/admissions/Pages/ug.aspx"
+      "href": "https://www.aku.edu/admissions/Pages/ug.aspx",
+      "doc": ""
     },
-    "Graduate Programmes": { 
+    "Graduate Programmes": {
       "id": "Graduate Programmes",
-      "href": "https://www.aku.edu/admissions/Pages/graduate.aspx"
+      "href": "https://www.aku.edu/admissions/Pages/graduate.aspx",
+      "doc": ""
     },
-    "Doctoral Programmes": { 
+    "Doctoral Programmes": {
       "id": "Doctoral Programmes",
-      "href": "https://www.aku.edu/admissions/Pages/doctoral-progammes.aspx"
+      "href": "https://www.aku.edu/admissions/Pages/doctoral-progammes.aspx",
+      "doc": ""
     },
-    "Key Admissions Dates": { 
+    "Key Admissions Dates": {
       "id": "Key Admissions Dates",
-      "href": "https://www.aku.edu/admissions/key-dates/Pages/home.aspx"
+      "href": "https://www.aku.edu/admissions/key-dates/Pages/home.aspx",
+      "doc": ""
     },
-    "Fees and Funding": { 
+    "Fees and Funding": {
       "id": "Fees and Funding",
-      "href": "https://www.aku.edu/admissions/fees-and-funding/Pages/home.aspx"
+      "href": "https://www.aku.edu/admissions/fees-and-funding/Pages/home.aspx",
+      "doc": ""
     },
-    "Registrar’s Office": { 
+    "Registrar’s Office": {
       "id": "Registrar’s Office",
-      "href": "https://www.aku.edu/registrar/Pages/home.aspx"
-    }
+      "href": "https://www.aku.edu/registrar/Pages/home.aspx",
+      "doc": ""
+    },
+    "doc": ""
   },
   "Research": {
     "id": "Research",
     "href": "https://www.aku.edu/research/Pages/home.aspx",
-    "About Us": { 
-      "id": "About Us",
-      "href": "https://www.aku.edu/research/about/Pages/home.aspx"
+    "Research(About Us)": {
+      "id": "Research(About Us)",
+      "href": "https://www.aku.edu/research/about/Pages/home.aspx",
+      "doc": ""
     },
     "University Research Council": {
       "id": "University Research Council",
-      "href": "https://www.aku.edu/research/urc/Pages/home.aspx"
+      "href": "https://www.aku.edu/research/urc/Pages/home.aspx",
+      "doc": ""
     },
     "Grants & Funding Opportunities": {
       "id": "Grants & Funding Opportunities",
-      "href": "https://www.aku.edu/research/grants/Pages/home.aspx"
+      "href": "https://www.aku.edu/research/grants/Pages/home.aspx",
+      "doc": ""
     },
     "Ethics Review Board & Committees": {
       "id": "Ethics Review Board & Committees",
-      "href": "https://www.aku.edu/research/urc/erc/Pages/home.aspx"
+      "href": "https://www.aku.edu/research/urc/erc/Pages/home.aspx",
+      "doc": ""
     },
-    "Core Facilities": { 
+    "Core Facilities": {
       "id": "Core Facilities",
-      "href": "https://www.aku.edu/research/facilities/Pages/home.aspx"
+      "href": "https://www.aku.edu/research/facilities/Pages/home.aspx",
+      "doc": ""
     },
     "Clinical Research Unit, Kenya": {
       "id": "Clinical Research Unit, Kenya",
-      "href": "https://www.aku.edu/cru/Pages/home.aspx"
+      "href": "https://www.aku.edu/cru/Pages/home.aspx",
+      "doc": ""
     },
     "Clinical Trials Unit, Pakistan": {
       "id": "Clinical Trials Unit, Pakistan",
-      "href": "https://www.aku.edu/ctu/pages/home.aspx"
+      "href": "https://www.aku.edu/ctu/pages/home.aspx",
+      "doc": ""
     },
     "Arusha Climate & Environmental Research Centre": {
       "id": "Arusha Climate & Environmental Research Centre",
-      "href": "https://www.aku.edu/acer/Pages/home.aspx"
+      "href": "https://www.aku.edu/acer/Pages/home.aspx",
+      "doc": ""
     },
-    "Brain & Mind Institute": { 
+    "Brain & Mind Institute": {
       "id": "Brain & Mind Institute",
-      "href": "https://www.aku.edu/bmi/Pages/home.aspx"
+      "href": "https://www.aku.edu/bmi/Pages/home.aspx",
+      "doc": ""
     },
     "Centre for Innovation in Medical Education": {
       "id": "Centre for Innovation in Medical Education",
-      "href": "https://www.aku.edu/cime/Pages/home.aspx"
+      "href": "https://www.aku.edu/cime/Pages/home.aspx",
+      "doc": ""
     },
     "Centre of Excellence in Women & Child Health": {
       "id": "Centre of Excellence in Women & Child Health",
-      "href": "https://www.aku.edu/coe-wch/Pages/home.aspx"
+      "href": "https://www.aku.edu/coe-wch/Pages/home.aspx",
+      "doc": ""
     },
     "Institute for Global Health & Development": {
       "id": "Institute for Global Health & Development",
-      "href": "https://www.aku.edu/ighd/Pages/home.aspx"
+      "href": "https://www.aku.edu/ighd/Pages/home.aspx",
+      "doc": ""
     },
     "Institute for Human Development": {
       "id": "Institute for Human Development",
-      "href": "https://www.aku.edu/ihd/Pages/home.aspx"
-    }
+      "href": "https://www.aku.edu/ihd/Pages/home.aspx",
+      "doc": ""
+    },
+    "doc": ""
   },
   "Support Us": {
     "id": "Support Us",
     "href": "https://www.aku.edu/supportus/Pages/home.aspx",
-    "Give Now": { 
+    "Give Now": {
       "id": "Give Now",
-      "href": "https://giving.aku.edu/"
+      "href": "https://giving.aku.edu/",
+      "doc": ""
     },
-    "Giving Opportunities": { 
+    "Giving Opportunities": {
       "id": "Giving Opportunities",
-      "href": "https://www.aku.edu/supportus/giving/Pages/home.aspx"
+      "href": "https://www.aku.edu/supportus/giving/Pages/home.aspx",
+      "doc": ""
     },
-    "Ways to Give": { 
+    "Ways to Give": {
       "id": "Ways to Give",
-      "href": "https://www.aku.edu/supportus/ways-to-give/Pages/home.aspx"
+      "href": "https://www.aku.edu/supportus/ways-to-give/Pages/home.aspx",
+      "doc": ""
     },
-    "Impact of Giving": { 
+    "Impact of Giving": {
       "id": "Impact of Giving",
-      "href": "https://www.aku.edu/supportus/Pages/impact.aspx"
+      "href": "https://www.aku.edu/supportus/Pages/impact.aspx",
+      "doc": ""
     },
-    "Recognising our Donors": { 
+    "Recognising our Donors": {
       "id": "Recognising our Donors",
-      "href": "https://www.aku.edu/supportus/our-supporters/Pages/home.aspx"
-    }
+      "href": "https://www.aku.edu/supportus/our-supporters/Pages/home.aspx",
+      "doc": ""
+    },
+    "doc": ""
   }
 }
