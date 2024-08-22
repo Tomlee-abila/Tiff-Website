@@ -240,7 +240,7 @@
               <h2 class="h_title wow fadeInUp">Let’s start the conversation</h2>
               <p>Please email us, we’ll be happy to assist you.</p>
             </div>
-            <form action="contact.html#" class="contact_form">  
+            <form id="contactForm" class="contact_form">
               <div class="row contact_fill">
                 <div class="col-lg-4 form-group">
                   <h6>Full Name</h6>
@@ -287,6 +287,51 @@
                 </div>
               </div>
             </form>
+            <script>
+              document.getElementById('contactForm').addEventListener('submit', function(event) {
+              event.preventDefault();
+
+              // Get form values
+              const fullName = document.getElementById('name').value.trim();
+              const email = document.getElementById('email').value.trim();
+              const phone = document.getElementById('phone').value.trim();
+              const message = document.getElementById('message').value.trim();
+
+              // Regular expression patterns
+              const namePattern = /^[A-Za-z\s]+$/; // Only letters and spaces
+              const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/; // Valid email format
+              const phonePattern = /^\+254\d{9}$/; // Phone number must start with +254 and have exactly 12 digits
+
+              // Validate Full Name
+              if (!namePattern.test(fullName) || fullName.length < 2) {
+                alert('Full name must contain only letters and be at least 2 characters long.');
+                return;
+              }
+
+              // Validate Email
+              if (!emailPattern.test(email)) {
+                alert('Please enter a valid email address.');
+                return;
+              }
+
+              // Validate Phone Number
+              if (!phonePattern.test(phone)) {
+                alert('Phone number must start with +254 and be exactly 12 digits long.');
+                return;
+              }
+
+              // Validate Message
+              if (message.length < 1) {
+                alert('Message cannot be empty.');
+                return;
+              }
+
+              // If all validations pass
+              alert('Form submitted successfully!');
+              // You can perform an action here, like sending the data to a server or another page
+            });
+
+            </script>
           </div>
         </div>
       </section>
